@@ -5,7 +5,7 @@ public class Miniproject {
         int mynumber=(int)(Math.random()*100);
         int usernumber=0;
         do{
-            System.out.println("guess the number(1-100)");
+            System.out.println("guess the number(1-100):");
             usernumber=sc.nextInt();
             if(usernumber==mynumber)
             {
