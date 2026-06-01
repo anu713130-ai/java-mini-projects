@@ -9,7 +9,7 @@ public class Studentgradecalculator {
         int total_marks=0;
         for(int i=0;i<subjects;i++)
         {
-            System.out.println("subject "+(i+1)+"marks is "+":");
+            System.out.println("subject "+(i+1)+" marks is "+":");
             marks[i]=sc.nextInt();
             total_marks+=marks[i];
         }
