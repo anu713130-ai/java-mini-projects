@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Miniproject2 {
+public class Miniproject2calculator {
     public static void main(String[] args) {
         //CALCULATOR
         Scanner sc=new Scanner(System.in);

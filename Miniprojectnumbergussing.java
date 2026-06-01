@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Miniproject {
+public class Miniprojectnumbergussing{
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
         int mynumber=(int)(Math.random()*100);
