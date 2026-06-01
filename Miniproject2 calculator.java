@@ -2,11 +2,13 @@ import java.util.Scanner;
 
 public class Miniproject2 {
     public static void main(String[] args) {
+        //CALCULATOR
         Scanner sc=new Scanner(System.in);
         System.out.println("enter the value of a:");
         int a=sc.nextInt();
         System.out.println("enter the value of b:");
         int b=sc.nextInt();
+        System.out.println("available choices:");
         System.out.println("1.Addition");
         System.out.println("2.subtraction");
         System.out.println("3.Multiplication:");
